@@ -1,0 +1,9 @@
+A- El color de fondo es blue
+B- El color de fondo es yellow
+C- El color de fondo es yellow
+D- El favicon que quedo es el de ALFA
+E- BETA no pudo realizar el push luego de ALFA
+F- No se pudo hacer push y al ser solo dos integrantes no se realizo el tercero
+G- BETA utilizo el push -f para poder hacer el push al TESTING
+H- Si se utiliza push -f es posible realizar los cambios
+I- Para que en desarrollo aparezcan todos los <p> realizados en TESTING es necesario que se realice un merge luego de haber actualizado el archivo
